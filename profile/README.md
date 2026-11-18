@@ -4,3 +4,5 @@ Willkommen <img src="https://camo.githubusercontent.com/d6234d630faef13bff461bdc
 
 ## Mitglieder
 [![Rabauke](https://img.shields.io/badge/Owner-CoinsAPI-darkred?style=for-the-badge)](https://github.com/coinsapi)
+
+[![Fluchs](https://img.shields.io/badge/Head--Developer-Fluchs-red?style=for-the-badge)](https://github.com/kotlinplugin)
